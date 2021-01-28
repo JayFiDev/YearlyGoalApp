@@ -5,7 +5,13 @@ include_in_header: true
 ---
 
 
-### `Initial Release`
+### `Changelog`
+
+# **Version 1.0**
+- Updated queries for data gathering
+- Choose between total distance (running/walking) and workout data
+- Custom widget colors
+
 # **Version 1.0**
 First release of a simple goal tracking app for the iPhone. 
 
