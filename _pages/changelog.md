@@ -7,8 +7,8 @@ include_in_header: true
 
 ### `Changelog`
 
-# **Version 1.1**
-- Added statistics to the main screen, calculation the needed daily distance for the user
+# **Version 1.2**
+- Added statistics to the main screen, calculating the needed daily distance for the user
 
 # **Version 1.1**
 - Updated queries for data gathering
