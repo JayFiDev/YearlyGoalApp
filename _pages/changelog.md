@@ -7,6 +7,12 @@ include_in_header: true
 
 ### `Changelog`
 
+# **Version 1.5**
+- Update to widgets - optionally showing more details
+
+# **Version 1.4**
+- Bugfixes, getting ready for 2022
+
 # **Version 1.3**
 - Small improvements to performance and statistics
 
