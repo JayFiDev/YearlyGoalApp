@@ -7,6 +7,12 @@ include_in_header: true
 
 ### `Changelog`
 
+
+# **Version 3.0**
+- Apple Watch application
+- New design
+- Lots of small tweaks and improvements
+
 # **Version 2.0**
 - Complete rewrite of the app - now including statistics and more
 - New statistic widget allowing you to track your progress even faster
