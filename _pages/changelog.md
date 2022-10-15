@@ -7,6 +7,8 @@ include_in_header: true
 
 ### `Changelog`
 
+# **Version 3.1**
+- Lock Screen widget added
 
 # **Version 3.0**
 - Apple Watch application
